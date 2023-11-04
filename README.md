@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aswin-2002
+- 👋 Hi, I’m Aswin
 - 👀 I’m interested in C,C++,SQL,Java,Python,HTML,CSS,javascript
 - 🌱 I’m currently learning javascript (node.js)
 - 💞️ I’m not looking to collaborate on anything curretly
