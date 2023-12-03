@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Aswin
-- 👀 I’m interested in C,C++,SQL,Java,Python,HTML,CSS,javascript
-- 🌱 I’m currently learning javascript (node.js)
-- 💞️ I’m not looking to collaborate on anything curretly
-- 📫 How to reach me -
-                       email: aswintvm@yahoo.com
-<!---
-Aswin-2002/Aswin-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+ 👋 Hi, I’m Aswin P currently studying Information Technology [Engineering] <br>
+ 🌱 I’m interested in learning React, PHP and Jquery <br> C,C++,SQL,Java,Python,HTML,CSS,javascript,node.js
+ 💞️ I’m looking to collaborate on simple projects for web development <br>
+ 📫How to reach me:  email: aswintvm@yahoo.com <br><br>
+
+ >--- 
+<h4>🌐 Socials:</h4>
+  
+> <a href="https://instagram.com/aswin.blitz" target="blank">
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/aswin-p-446168206" target="blank">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
