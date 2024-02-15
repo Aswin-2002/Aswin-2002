@@ -36,7 +36,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aswin-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/YbmQHDSJvbkAAAAC/thumbs-up-hacker.gif"  height="200">
+<!--<img src="https://media.tenor.com/YbmQHDSJvbkAAAAC/thumbs-up-hacker.gif"  height="200"> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aswin-2002&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
