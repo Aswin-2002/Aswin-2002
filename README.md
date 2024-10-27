@@ -1,6 +1,6 @@
 
 <div align="center">
- 👋 Hi, I’m Aswin P currently studying Information Technology [Engineering]<br>
+ 👋 Hi, I’m Aswin P . Information Technology Graduate [Engineering]<br>
  🌱 I’m interested in learning React, PHP, Markdown and Jquery <br>
  💞️ I’m looking to collaborate on simple projects for web development <br>
  📫How to reach me:  email: aswintvm@yahoo.com <br> <br>
