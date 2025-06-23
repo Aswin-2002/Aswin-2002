@@ -13,8 +13,7 @@
 <div align="center">
 
 #### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-p-446168206) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswin.blitz)  [![Twitter](https://img.shields.io/badge/Twitter|X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/aswin_blitz)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-p-446168206) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswin.blitz)  [![Twitter](https://img.shields.io/badge/Twitter|X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/aswin_blitz)
 <div align="center">
 
 #### 💻 Tools and programs:
@@ -30,8 +29,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Aswin-2002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
