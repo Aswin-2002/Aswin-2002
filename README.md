@@ -2,7 +2,7 @@
 <div align="center">
  👋 Hi, I’m Aswin Padmakumar. Student at University of Stirling, Scotland<br>
  👨🏻‍🔬 Master's in Artificial Intelligence<br>
- 🧑‍💻 Information Technology Graduate [BTech Engineering] <br>
+ 🧑‍💻 Information Technology Graduate [BTech Engineering]<br>
  🌱 I’m interested in learning React, PHP, Markdown and Jquery<br>
  💞️ I’m looking to collaborate on projects inMachine Learning & Web Development<br>
  📫How to reach me:  email: aswintvm@yahoo.com <br><br>
