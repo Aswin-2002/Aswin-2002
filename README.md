@@ -4,7 +4,7 @@
  👨🏻‍🔬 Master's in Artificial Intelligence<br>
  🧑‍💻 Information Technology Graduate [BTech Engineering]<br>
  🌱 I’m interested in learning React, PHP, Markdown and Jquery <br>
- 💞️ I’m looking to collaborate on projects inMachine Learning & Web Development<br>
+ 💞️ I’m looking to collaborate on projects in Machine Learning & AIt<br>
  📫How to reach me:  email: aswintvm@yahoo.com <br><br>
  
  [![](https://visitcount.itsvg.in/api?id=Aswinblitz&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
